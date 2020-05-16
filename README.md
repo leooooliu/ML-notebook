@@ -1,7 +1,7 @@
 ## Python Project: pillow, tesseract, and opencv
 
 All the notebooks are coursera course 
-[Course Link] (https://www.coursera.org/learn/python-project/home/welcome)
+[Course Link](https://www.coursera.org/learn/python-project/home/welcome)
  
 ### Course contents
 
